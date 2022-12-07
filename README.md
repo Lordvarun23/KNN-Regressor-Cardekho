@@ -34,7 +34,7 @@ Implemented K Nearest Neighbor Regressor. Both using Mean and Median of K NN. Co
 <li> Handling Imbalanced Datasets by upsampling and downsampling. </li>
 
 <h4> Hyperparamter Tuning - K </h4>
-![image](https://user-images.githubusercontent.com/69851775/206198435-ff5968b9-8a70-4075-8c8c-045bf1e14782.png)
+<img src = "https://user-images.githubusercontent.com/69851775/206198435-ff5968b9-8a70-4075-8c8c-045bf1e14782.png"></img>
 
 <h4> Results of Various Models</h4>
 <table>
