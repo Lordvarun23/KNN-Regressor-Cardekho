@@ -69,4 +69,4 @@ Implemented K Nearest Neighbor Regressor. Both using Mean and Median of K NN. Co
 </table>
 
 <h4> Results: </h4>
-![image](https://user-images.githubusercontent.com/69851775/206237358-3172afa9-9120-4fe1-b4bf-ff769155acab.png)
+<img src = "https://user-images.githubusercontent.com/69851775/206237358-3172afa9-9120-4fe1-b4bf-ff769155acab.png"></img>
