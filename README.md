@@ -32,4 +32,41 @@ Implemented K Nearest Neighbor Regressor. Both using Mean and Median of K NN. Co
 <li> As KNN works based on Distace so it is better to standardize or normalize before model building. </li>
 <li> Handling Outliers. </li>
 <li> Handling Imbalanced Datasets by upsampling and downsampling. </li>
-</ul>
+
+<h4> Hyperparamter Tuning - K </h4>
+![image](https://user-images.githubusercontent.com/69851775/206198435-ff5968b9-8a70-4075-8c8c-045bf1e14782.png)
+
+<h4> Results of Various Models</h4>
+<table>
+  <tr>
+    <th>Model</th>
+    <th>Test RMSLE</th>
+  </tr>
+  <tr>
+    <td>KNN K=19</td>
+    <td>12.995</td>
+  </tr>
+  <tr>
+    <td>Linear Regression</td>
+    <td>13.107</td>
+  </tr>
+  <tr>
+    <td>Decision tree</td>
+    <td>13.182</td>
+  </tr>
+  <tr>
+    <td>Support Vector Regressor</td>
+    <td>13.383</td>
+  </tr>
+  <tr>
+    <td>Random Forest Regressor</td>
+    <td>13.057</td>
+  </tr>
+  <tr>
+    <td>XGBoost Regressor</td>
+    <td>13.122</td>
+  </tr>
+</table>
+
+<h4> Results: </h4>
+![image](https://user-images.githubusercontent.com/69851775/206237358-3172afa9-9120-4fe1-b4bf-ff769155acab.png)
